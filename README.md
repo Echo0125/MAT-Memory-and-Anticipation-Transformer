@@ -1,8 +1,8 @@
-# Memory-and-Anticipation Transformer for Online Action Detection and Anticipation
+# Memory-and-Anticipation Transformer for Online Action Understanding
 
 ## Introduction
 
-This is a PyTorch implementation for our ICCV 2023 paper "[`Memory-and-Anticipation Transformer for Online Action Detection and Anticipation`](https://arxiv.org/pdf/xxxx.yyyyy.pdf)".
+This is a PyTorch implementation for our ICCV 2023 paper "[`Memory-and-Anticipation Transformer for Online Action Understanding`](https://arxiv.org/pdf/xxxx.yyyyy.pdf)".
 
 ![network](demo/Framework.png?raw=true)
 
