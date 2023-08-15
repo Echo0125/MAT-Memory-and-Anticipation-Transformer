@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a PyTorch implementation for our ICCV 2023 paper "[`Memory-and-Anticipation Transformer for Online Action Understanding`](https://arxiv.org/pdf/xxxx.yyyyy.pdf)".
+This is a PyTorch implementation for our ICCV 2023 paper "[`Memory-and-Anticipation Transformer for Online Action Understanding`](https://echo0125.github.io/mat/)".
 
 ![network](demo/Framework.png?raw=true)
 
