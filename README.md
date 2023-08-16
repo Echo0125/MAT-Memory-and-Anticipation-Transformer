@@ -82,10 +82,10 @@ For EK100, please find more details at [`RULSTM`](https://github.com/fpv-iplab/r
        ```
           $YOUR_PATH_TO_EK_DATASET
           ├── rgb_kinetics_bninception/
-          |   ├── P01_01.npy (of size L x 2048)
+          |   ├── P01_01.npy (of size L x 1024)
           │   ├── ...
           ├── flow_kinetics_bninception/
-          |   ├── P01_01.npy (of size L x 2048)
+          |   ├── P01_01.npy (of size L x 1024)
           |   ├── ...
           ├── target_perframe/
           |   ├── P01_01.npy (of size L x 3807)
