@@ -13,7 +13,7 @@ import torch.nn as nn
 from rekognition_online_action_detection.evaluation import compute_result
 
 import sys
-sys.path.append('/mnt/petrelfs/chenguo/workspace/w/workspace/Memory-and-Anticipation-Transformer')
+sys.path.append('')
 
 try:
     from external.rulstm.RULSTM.utils import (get_marginal_indexes, marginalize, softmax,
