@@ -161,8 +161,14 @@ There are *two kinds* of evaluation methods in our code.
 
 If you are using the data/code/model provided here in a publication, please cite our paper:
 
-	@inproceedings{
-	}
+@misc{wang2023memoryandanticipation,
+      title={Memory-and-Anticipation Transformer for Online Action Understanding}, 
+      author={Jiahao Wang and Guo Chen and Yifei Huang and Limin Wang and Tong Lu},
+      year={2023},
+      eprint={2308.07893},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ## License
 
